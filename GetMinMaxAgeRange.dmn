@@ -57,7 +57,7 @@
           <dmn:text>15</dmn:text>
         </dmn:outputEntry>
         <dmn:outputEntry id="_353615DE-5637-4A79-81EE-157CA278C96C" expressionLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/">
-          <dmn:text>65</dmn:text>
+          <dmn:text>85</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
           <dmn:text/>
